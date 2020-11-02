@@ -11,3 +11,5 @@ Description: Everything you might want to know about Disc Golf flying objects.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/aparikh21/DiscGolf
+BugReports: https://github.com/aparikh21/DiscGolf/issues
