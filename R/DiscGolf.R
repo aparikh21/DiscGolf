@@ -7,7 +7,7 @@
 #' @aliases DiscGolf DiscGolf-package
 NULL
 
-#' "Golf Discs"
+#' "DiscGolf"
 #'
 #' A data set containing golf discs approved by
 #' the Professional Disc Golf Association
